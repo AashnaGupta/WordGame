@@ -1,0 +1,9 @@
+Games Completed: 2
+Game 1
+- Solution: union
+- Guesses: fsvbiejrng,break,float,union
+- Solved: Yes
+Game 2
+- Solution: anger
+- Guesses: cries,tries,union
+- Solved: No
